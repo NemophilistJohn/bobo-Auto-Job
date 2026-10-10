@@ -1,0 +1,6 @@
+interface:
+  display_name: "Resume application"
+  short_description: "Select a resume and fill an application with verified field reports."
+  default_prompt: "Use $resume-application to select the right resume, fill the application in Edge, and report filled, uncertain, and missing fields with evidence."
+policy:
+  allow_implicit_invocation: true

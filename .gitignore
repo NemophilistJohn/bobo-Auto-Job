@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/
+output/
+.playwright-mcp/
+.playwright-cli/
+.playwright/
+.claude/
+CLAUDE.md
+.mcp.json
+.codex/config.toml
+.codex/config.toml.*
+*.log
+.env
+.env.*
+!.env.example
